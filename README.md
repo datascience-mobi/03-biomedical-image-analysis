@@ -1,7 +1,7 @@
 Biomedical Image analysis
 =======================
 
-#### *PD Dr. Karl Rohr*
+#### *Project overview and guidelines*
 
 -   [Introduction](#introduction)
 -   [Objective](#objective)
