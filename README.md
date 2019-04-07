@@ -1,4 +1,4 @@
-Image analysis
+Biomedical Image analysis
 =======================
 
 #### *PD Dr. Karl Rohr*
