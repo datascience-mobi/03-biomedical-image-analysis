@@ -85,6 +85,7 @@ Technology database) of handwritten digits consists of a training set
 size-normalized (28×28 pixels) and centered, and stored as csv files.
 Each line of these files represents an image. The first column
 represents the label (the digit depicted in the image).
+Link: http://yann.lecun.com/exdb/mnist/
 
 #### Cell Nuclei Segmentation
 
@@ -92,6 +93,7 @@ The dataset for cell nuclei segmentation consists of 25 images of
 bone-marrow derived macrophages from mice from the Broad Bioimage
 Benchmark Collection. The cell nuclei were stained with DAPI. The images
 have a size of 1388×1040 pixels and show 30–50 cell nuclei per image.
+Link: https://data.broadinstitute.org/bbbc/BBBC020/
 
 Literature
 ----------
