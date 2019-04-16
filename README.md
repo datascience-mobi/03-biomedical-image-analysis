@@ -1,5 +1,5 @@
-Biomedical Image analysis
-=======================
+Project 03: Biomedical Image analysis
+=====================================
 
 #### *Project overview and guidelines*
 
